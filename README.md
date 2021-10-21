@@ -11,7 +11,7 @@ The idea of this experimental mini-project is to walk through several possibilit
 
 ## What notebooks will you find here 😊
 
-* [Hello World!](./00-basic_browser_tests.ipynb)
+* [Hello World!](./00-hello_world.ipynb)
 * [Jupyter's basic operations](./01-basic_operations.ipynb)
 * [Some Numpy tests](./02-numpy_in_the_browser.ipynb)
 * [Playing with visualisations using Matplotlib](./03-visualisations_in_the_browser.ipynb)
